@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Title: House
  * Desc: represents the house that controls the card game
- * Authors: Trent Reyff  and Khalil Tantouri
+ * Authors: Trent Reyff
  * Date: 7/12/2019
  */
 public class House
